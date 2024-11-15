@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Melissa, a former Software Engineer who is now an HR director whose biggest goal is to automate opening PDFs. 
+I'm Melissa, a former Software Engineer who is now an HR director. My biggest goal is to automate opening PDFs :^) 
 
 ### What I'm working on...
 - My blog, "Things I'll Miss When I'm Dead" (coming soon!)
@@ -13,4 +13,6 @@ I'm Melissa, a former Software Engineer who is now an HR director whose biggest 
 </div>
 
 
-
+![melissa-github-banner](https://github.com/user-attachments/assets/819a5b5a-c804-403d-9812-0d519c3b4c50)
+### Contact me at
+melissa.h717@outlook.com
